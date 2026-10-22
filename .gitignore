@@ -1,0 +1,5 @@
+*.tar
+*.zip
+*.wprime
+__pycache__/
+.DS_Store
